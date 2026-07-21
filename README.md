@@ -19,10 +19,6 @@ I build ambitious software end-to-end — from a **bare-metal operating system**
 **Apple:** SwiftUI · StoreKit · WidgetKit · VisionKit · CryptoKit · App Intents
 **Systems:** bare-metal kernels · device drivers · bootloaders
 
-### 📊 GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcalmtuber&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcalmtuber&layout=compact&theme=tokyonight)
 
 ---
 
