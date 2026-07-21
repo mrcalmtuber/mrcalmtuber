@@ -8,7 +8,7 @@ I build ambitious software end-to-end — from a **bare-metal operating system**
 |---|---|---|
 | [**Kryct**](https://github.com/mrcalmtuber/kryct) · [live ↗](https://kryct.com) | A browser-based AI coding IDE — chat-driven agent, live preview, one-click deploy, real Stripe billing | TypeScript · React · Node · WebSocket · Docker · Firebase · Stripe |
 | [**Socrates BSD 9**](https://github.com/mrcalmtuber/socrates-bsd-9) | A bare-metal x86_64 OS from scratch — custom kernel, TrueType rasterizer, TCP/IP stack, AC97 audio | C · Assembly · Limine |
-| [**Anvil Widgets**](https://github.com/mrcalmtuber/anvil-widgets) | Design & ship custom iOS home-screen widgets — Capacitor + React with a live mockup sandbox | TypeScript · React · Capacitor |
+| [**Nyxthos**](https://github.com/mrcalmtuber/nyxthos) · [live ↗](https://nyxthos.com) | An open-source, provider-agnostic AI coding agent for the terminal — bring your own open model; AST code-intelligence, loop detection, shadow-git rollback, and a sandbox | TypeScript · Node · Ink · pnpm |
 
 *Also building native SwiftUI iOS apps — gamified finance, AI habit tracking, nutrition — private for now.*
 
